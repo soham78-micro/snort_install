@@ -21,7 +21,7 @@ In the opened file, add the following line to include the necessary Debian repos
 deb http://http.us.debian.org/debian/ bullseye non-free contrib main
 ```
 
-Save the changes by pressing `Ctrl+O` and exit the editor with `Ctrl+X`.
+Save the changes by pressing `Ctrl+S` and exit the editor with `Ctrl+X`.
 
 ## Step 2: Update Package Lists
 
