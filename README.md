@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <meta name="google-site-verification" content="psGEBxX8zYrsMx9ZacVbB7vdKI9G-6S88hwPSj9UDsc" />
+    <meta name="google-site-verification" content="psGEBxX8zYrsMx9ZacVbB7vdKI9G-6S88hwPSj9UDsc" />
     <title>Snort Installation on Kali Linux</title>
 </head>
 <body>
